@@ -29,6 +29,8 @@ def some_puppies(pups_found, pups_max)
   end
 end
 
+some_puppies(2,2)
+
 
 # BONUS
 # 4. Rachel has decided to track both her puppy allowance AND her cat allowance. Write a method called new_animal accumulation that takes in two arguments - number of puppies and number of cats.
